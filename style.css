@@ -1,0 +1,42 @@
+:root {
+    --animate-delay: 0.8s;
+}
+
+body {
+    letter-spacing: 0.1em;
+    background-color: #6930c3;
+    font-family: 'Roboto', sans-serif;
+}
+
+.container {
+    background-color:#252525;
+    max-width: 450px;
+    
+}
+
+
+.form {
+    font-family: "Poppins";
+    
+}
+
+h4 {
+    font-weight: 500;
+}
+
+
+.whitey {
+    color: #fff;
+}
+
+div h1.whitey {
+    font-family: 'Bebas Neue';
+} 
+
+.icon {
+    position: relative;
+    top: -50px;
+    border-radius: 50%;
+    width: 100px;
+    margin-bottom: -50px;
+}
