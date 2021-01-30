@@ -4,6 +4,6 @@ Navigate to the gh pages branch or simply access here: https://abdul-pitodia.git
 
 ## Weather App built using - HTML, CSS, Bootstrap, Vanilla JS
 
-## Uses third party Weather API from AccuWeather for fetching location and weather details
+--> Uses third party Weather API from AccuWeather for fetching location and weather details
 
-## Implemented uncluttered, minimal UI for simplicity
+--> Implemented uncluttered, minimal UI for simplicity
