@@ -28,7 +28,7 @@ const updateUI = (data) => {
 
     // update night and day image and icon image
 
-    const iconSrc = `/img/icons/${weather.WeatherIcon}.svg`;
+    const iconSrc = `img/icons/${weather.WeatherIcon}.svg`;
 
     if(!icon.classList.contains('animate__animated animate__zoomInDown')){
         icon.classList.add('animate__animated', 'animate__zoomInDown');
@@ -40,9 +40,9 @@ const updateUI = (data) => {
 
     let timeSrc = null;
     if(weather.IsDayTime){
-        timeSrc = '/re.jpg';
+        timeSrc = 're.jpg';
     } else{
-        timeSrc = '/img/night.svg';
+        timeSrc = 'img/night.svg';
     }
 
     time.setAttribute('src', timeSrc);
