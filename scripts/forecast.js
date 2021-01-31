@@ -1,4 +1,4 @@
-const apikey = 'vLQEzDNaawVzKpECkX6nbJgTbOAGaHxe';
+const apikey = '3un9kd8CJxuUaLChSt1P92A1f0Y00qIe';
 
 // Get weather information
 
